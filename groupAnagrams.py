@@ -3,7 +3,7 @@
  append the strings to the list values"""
 #Accepted on leetcode
 #Time complexity - O(n) as we traverse entire list
-#Space omplexity - O(n) since we are using hashmap
+#Space omplexity - O(1) since we have 26 alphabets
 
 
 class Solution(object):
